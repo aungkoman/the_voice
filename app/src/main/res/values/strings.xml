@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Voice</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- ads code -->
+    <!-- test banner code ca-app-pub-3940256099942544/6300978111 -->
+    <string name="banner1">ca-app-pub-4224641533746813/5936650325</string>
+    <!-- test  interstitials ca-app-pub-3940256099942544/1033173712 -->
+    <string name="interstitial1">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- TEST APP ID ca-app-pub-3940256099942544~3347511713 -->
+    <string name="ads_app_id">ca-app-pub-4224641533746813~3502058673</string>
+
+
+
+
+</resources>
